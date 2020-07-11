@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+h1{
+    display: inline-block;
+    width: 100px;
+    color: red;
+    background-color: white;
+}
+button:hover{
+    background-color:gray;
+}
+button{
+    width: 80px;
+    height: 40px;
+}
